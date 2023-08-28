@@ -1,4 +1,5 @@
 # <center>  Outline of MirrorMe </center>
+**SSAFY 공통 프로젝트 (우수프로젝트 수상 🏆)**
 - 제작기간 : 2023년 7월 4일 2023(Tue) ~ 2023년 8월 18일(Fri)
 - 프로젝트 주제: **가족 소통**을 위한 **스마트미러**
 - 팀 명: 1OT(One of Team)
